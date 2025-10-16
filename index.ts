@@ -1,4 +1,4 @@
-import { Client, MessageTypes } from "./macsploit.js";
+import { Client, MessageTypes } from "./macsploit.ts";
 
 (async () => {
     const client = new Client();
